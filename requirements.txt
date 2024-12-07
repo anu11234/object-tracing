@@ -1,0 +1,6 @@
+Flask==2.2.5
+qrcode==7.4.2
+
+Flask: For the web framework.
+qrcode: For generating QR codes.
+sqlite3: Comes built-in with Python (does not need to be listed)
